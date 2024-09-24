@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AmitKr-GitsHub
-- 👀 I’m interested in use of codeing in the field of economics.
+- 👀 I’m interested in use of coding in the field of economics.
 - 🌱 I’m currently learning data science.
 - 💞️ I’m looking to collaborate on basic to intermediate level projects based on economics and its application.
 - 📫 How to reach me :  mail me on send2amitkr@gmail.com
