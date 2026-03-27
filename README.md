@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning data science.
 - 💞️ I’m looking to collaborate on basic to intermediate level projects based on economics and its application.
 - 📫 How to reach me :  mail me on send2amitkr@gmail.com
+- 🌐 Visit my website : https://amitkr-gitshub.github.io/
 - 😄 Pronouns: He/Him
 
 <!---
